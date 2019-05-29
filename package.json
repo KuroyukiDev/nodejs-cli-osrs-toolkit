@@ -10,7 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "number-formatter": "^1.2.0",
-    "osrs-api": "^0.1.2",
     "osrs-wrapper": "^1.0.4",
     "yargs": "^12.0.5"
   }
