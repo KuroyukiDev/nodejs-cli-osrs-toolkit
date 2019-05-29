@@ -1,0 +1,6 @@
+.idea/
+node_modules/
+playground/
+
+pet-drop-calc.js
+skill-calc.js

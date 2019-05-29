@@ -1,0 +1,17 @@
+{
+  "name": "test-osrs-ge-search-console-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KuroyukiDev",
+  "license": "MIT",
+  "dependencies": {
+    "number-formatter": "^1.2.0",
+    "osrs-api": "^0.1.2",
+    "osrs-wrapper": "^1.0.4",
+    "yargs": "^12.0.5"
+  }
+}
